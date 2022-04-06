@@ -6,4 +6,4 @@
 + No detect original cheat engine
 + You can run multiple Growtopia.exe
 
-# Fixed by Nighthawk
+# ⓒ Fixed by Nighthawk
