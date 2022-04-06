@@ -1,6 +1,6 @@
 # Fixed-Growtopia
 
-# [Release](https://github.com/owolib/Fixed-Growtopia/releases)
+# [Releases](https://github.com/owolib/Fixed-Growtopia/releases)
 
 + CRC Ban bypassed
 + No detect original cheat engine
